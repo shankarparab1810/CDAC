@@ -1,4 +1,4 @@
-class SmallLarge { 
+public class SmallLarge { 
     public static void main(String[] args) { 
         int[] arr = {12, 45, 2, 89, 34, 7, 99, 23}; 
  
